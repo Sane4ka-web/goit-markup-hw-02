@@ -4,6 +4,8 @@
 
 body{
     font-family: Roboto, sans-serif;
+    color:#434455;
+    background-color: #fff;
 }
 
 .button{
@@ -40,4 +42,16 @@ body{
 .header-link:hover,.header-link:focus{
     color: var(--main-color);
     outline: none;
+}
+
+.web-logo,.studio-logo{
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--main-color);
+    text-decoration: none;
+    
 }

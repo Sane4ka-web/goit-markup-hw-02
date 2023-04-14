@@ -40,9 +40,7 @@ body{
     font-size: 16px;
     color: #434455;
     font-style: normal;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-    text-decoration:none;
+    
 }
 
 .link:hover,.link:focus{
@@ -98,4 +96,14 @@ body{
     font-weight: 500;
     letter-spacing: 0.02em;
     text-decoration:none;
+}
+
+.link::firts-child{
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-decoration:none;
+}
+
+.adress{
+    font-style: normal;
 }

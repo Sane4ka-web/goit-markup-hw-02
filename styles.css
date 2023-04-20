@@ -234,7 +234,7 @@
     
     
     
-    /* !-----------------PORTFOLIO---------------------- */
+    /* !-----------------PORTFOLOI---------------------- */
     
     .portfolio {
     }
@@ -256,8 +256,10 @@
         color: var(--color-white);
         background-color: var(--color-ocean);
     }
+    
     .portfolio-list {
     }
+
     .portfolio-list-item {
     
     }
@@ -265,8 +267,6 @@
     .portfolio-item {
     
     }
-    
-    
     
     .portfolio-title {
     font-weight: 500;

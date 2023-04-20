@@ -14,10 +14,9 @@
     
     
     .body {
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
-    color: var(--color-slate);
-    background-color: var(--color-white);
+        font-family: "Roboto", sans-serif;
+        color: #434455;
+        background-color: var(--color-white);
     }
     
     /* !----------Header---------- */

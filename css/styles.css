@@ -177,6 +177,7 @@
     .team-list {
     }
     .team-item {
+        background-color: var(--color-white);
     }
     .team-name {
     font-weight: 500;
